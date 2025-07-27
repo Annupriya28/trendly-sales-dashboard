@@ -40,3 +40,4 @@ Top Products = TOPN(10, Products, [Total Sales], DESC)
 
 
 # GitHub Link
+https://github.com/Annupriya28/trendly-sales-dashboard/blob/main/E-commerce.pbix
